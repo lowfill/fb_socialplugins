@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Diego Andrés Ramírez Aragón" />
+	<field key="version" value="0.1-alpha" />
+	<field key="description" value="Integration with the Facebook social_plugins" />
+	<field key="copyright" value="(C) Diego Andrés Ramírez Aragón 2010" />
+	<field key="website" value="http://github.com/lowfill/fb_socialplugins" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="2010030101" />
+</plugin_manifest>
