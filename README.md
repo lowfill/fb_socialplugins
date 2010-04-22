@@ -21,12 +21,13 @@ Currently, this plugin allow you to:
 
 Usage
 -----
-  <?php
-  	echo elgg_view("fb_plugins/like");
-  	echo elgg_view("fb_plugins/like",array('action'=>'recommend'));
-  ?>
+    <?php
+   	  echo elgg_view("fb_plugins/like");
+  	  echo elgg_view("fb_plugins/like",array('action'=>'recommend'));
+    ?>
 
 For detalied examples take a look to the examples page at your site (http://localhost/pg/fb_plugins).
  
 Issues
 ------
+[Pivotal page](http://www.pivotaltracker.com/projects/75975)
