@@ -28,6 +28,3 @@ Usage
 
 For detalied examples take a look to the examples page at your site (http://localhost/pg/fb_plugins).
  
-Issues
-------
-[Pivotal page](http://www.pivotaltracker.com/projects/75975)
